@@ -4,3 +4,6 @@ body{
 .wrapper{
     color:blue
 }
+li{
+    display: block;
+}
