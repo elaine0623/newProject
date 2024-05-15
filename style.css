@@ -4,3 +4,6 @@ body{
 .wrapper{
     color:blue
 }
+nav{
+    display: flex;
+}
