@@ -6,4 +6,8 @@ body{
 }
 nav{
     display: flex;
+    color: antiquewhite;
+}
+li{
+    display: block;
 }
