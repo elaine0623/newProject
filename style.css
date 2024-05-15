@@ -6,4 +6,6 @@ body{
 }
 nav{
     display: flex;
+li{
+    display: block;
 }
